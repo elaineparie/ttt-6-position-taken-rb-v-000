@@ -5,3 +5,5 @@ def position_taken? (board, "X")
   else
     true
 end
+
+board = ["   ", "   ", "   ", "   ", "   ", "   ", "   ", "   ", "   "]
